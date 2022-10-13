@@ -1,6 +1,7 @@
-# new_project
+# Android Pizza 
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/101409254/195527919-84b50649-8348-4ef1-be91-a0ea293fa186.png)
+
 
 ## Getting Started
 
@@ -14,3 +15,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
